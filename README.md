@@ -39,6 +39,8 @@ To run the automated tests, follow these steps:
 
 DistilledAssessmentFramework/src/test/java/daftIeTests/FilterTest.java
 
+5. I have followed page object Model thus all the locators and Methods are under
+DistilledAssessmentFramework/src/main/java/daft/pageobjects
  
 ## Technology Stack
 
